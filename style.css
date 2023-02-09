@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -25,7 +25,6 @@
   text-align: center;
   color: white;
   font-size: 20px;
-
 }
 
 .row2-col1 {
@@ -39,28 +38,28 @@
   width: 200px;
   height: 40px;
   background: #673ab7;
-  float: left
+  float: left;
 }
 
 .row2-col3 {
   width: 200px;
   height: 40px;
   background: #3f51b5;
-  float: left
+  float: left;
 }
 
 .row2-col4 {
   width: 200px;
   height: 40px;
   background: #2196f3;
-  float: left
+  float: left;
 }
 
 .row2-col5 {
   width: 200px;
   height: 40px;
   background: #03a9f4;
-  float: left
+  float: left;
 }
 
 .row3 {
@@ -84,37 +83,31 @@
   height: 200px;
   background: #8bc34a;
   float: left;
-  
 }
 
 .row3-col1-row1 {
   width: 250px;
   height: 40px;
-  
 }
 
 .row3-col1-row2 {
   width: 250px;
   height: 40px;
-
 }
 
 .row3-col1-row3 {
   width: 250px;
   height: 40px;
-
 }
 
 .row3-col1-row4 {
   width: 250px;
   height: 40px;
-
 }
 
 .row3-col1-row5 {
   width: 250px;
   height: 40px;
-
 }
 
 .row4 {
@@ -124,35 +117,30 @@
   color: white;
   font-size: 50px;
   background-color: #cddc39;
-
 }
 
 .row5 {
   width: 1000px;
   height: 100px;
   background: #ffc107;
-
 }
 
 .row5-col1 {
   width: 333px;
   height: 100px;
   float: left;
-
 }
 
 .row5-col2 {
   width: 333px;
   height: 100px;
   float: left;
-
 }
 
 .row5-col3 {
   width: 333px;
   height: 100px;
   float: left;
-
 }
 
 .row6 {
@@ -162,5 +150,4 @@
   font-size: 30px;
   color: white;
   text-align: center;
-
 }
